@@ -30,7 +30,7 @@
       },
       {
         "package": "Solana",
-        "repositoryURL": "https://github.com/metaplex-foundation/Solana.Swift.git",
+        "repositoryURL": "https://github.com/MirekR/Solana.Swift",
         "state": {
           "branch": "master",
           "revision": "78cd082e98047179d245057fa02bd8a8ea83af23",
