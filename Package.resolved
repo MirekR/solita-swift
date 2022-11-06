@@ -32,8 +32,8 @@
         "package": "Solana",
         "repositoryURL": "https://github.com/MirekR/Solana.Swift",
         "state": {
-          "branch": "master",
-          "revision": "78cd082e98047179d245057fa02bd8a8ea83af23",
+          "branch": "non-escaped-encodable",
+          "revision": "a761bca5e52d17d62222cfaad39c3f29e29b2e27",
           "version": null
         }
       },
